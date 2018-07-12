@@ -8,9 +8,9 @@ TOH announcemnt : https://www.reddit.com/user/TokenOfHope/comments/8wsjc1/tokeno
 
 TOH chat on Twitter: https://twitter.com/Token_Of_Hope
 
-TOH github source: https://github.com/tohcoin/toh/source
+TOH github source: https://github.com/tohcoin/toh/tree/source
 
-TOH github builds: https://github.com/tohcoin/toh/builds
+TOH github builds: https://github.com/tohcoin/toh/tree/builds
 
 Digital experimental currency that enables instant payments to anyone, anywhere in the world, with low fees!
 
