@@ -12,7 +12,7 @@ TOH github source: https://github.com/tohcoin/toh/tree/source
 
 TOH github builds: https://github.com/tohcoin/toh/tree/builds
 
-Digital experimental currency that enables instant payments to anyone, anywhere in the world, with low fees!
+Digital blockchain currency with instant payments to anyone, anywhere in the world! 
 
 Algorithm: Scrypt
 
