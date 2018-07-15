@@ -1,0 +1,34 @@
+src/*.exe
+src/tokenofhope
+src/tokenofhoped
+src/test_tokenofhope
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.tokenofhope
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+tokenofhope-qt
+TokenOfHope-Qt.app
+
+# Unit-tests
+Makefile.test
+tokenofhope-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
