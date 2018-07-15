@@ -5,6 +5,7 @@
 TOH website : http://www.tohcoin.com
 
 TOH announcemnt : https://www.reddit.com/user/TokenOfHope/comments/8wsjc1/tokenofhope/
+                  https://bitcointalk.org/index.php?topic=4675942.msg42187468#msg42187468
 
 TOH chat on Twitter: https://twitter.com/Token_Of_Hope
 
