@@ -45,7 +45,7 @@ Transaction confirmations: 1 blocks
 
 We hope you will use this coin/token for good . We put this cryptocoin out for donation, charity and fundraising to help people in need.
 
-Please donate to Red Cross PETA and Greenpace. They need it to make our world a better place for all!
+Please donate to Red Cross PETA and Greenpeace. They need it to make our world a better place for all!
 
 TOH donations to support our cause can be done at :
 
