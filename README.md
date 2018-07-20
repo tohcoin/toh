@@ -4,6 +4,8 @@
 
 TOH website : http://www.tohcoin.com
 
+TOH guide and FAQ to get you started : http://www.tohcoin.com/start
+
 TOH announcemnt : https://www.reddit.com/user/TokenOfHope/comments/8wsjc1/tokenofhope/
 
 https://bitcointalk.org/index.php?topic=4675942.msg42187468#msg42187468
