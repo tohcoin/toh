@@ -32,7 +32,7 @@ RPC port: 39776
 
 P2P port: 39775
 
-Block reward: 12 coins
+Block reward: 0.012 coins
 
 Block halving: 4000000 blocks
 
